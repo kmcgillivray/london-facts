@@ -39,7 +39,32 @@ var LONDON_FACTS = [
     "The Fleet River, one of the capital's many buried waterways, still runs under the cellars of the Cheshire Cheese pub on Fleet Street.",
     "The Piccadilly Circus statue known as Eros, is actually intended to depict the Angel of Christian Charity.",
     "London was the first city to reach a population of more than one million, in eighteen eleven. It remained the largest city in the world until it was overtaken by Tokyo in nineteen fifty seven.",
-    "Brought back from China by Dutch merchants, tea made its first appearance in London in September 1658, when the new beverage was advertised in a pamphlet by Thomas Garraway, a coffeehouse owner."
+    "Brought back from China by Dutch merchants, tea made its first appearance in London in September sixteen fifty eight, when the new beverage was advertised in a pamphlet by Thomas Garraway, a coffeehouse owner.",
+    "80,000 umbrellas are lost every year on the tube.",
+    "Mosquitoes live within tube tunnels.  They’re not native to Britain and can’t be found anywhere else. It’s thought they travelled on Underground trains from Heathrow where they arrived by plane. They also form their own unique species.",
+    "London Bridge is 883 feet long.",
+    "The original London Bridge was built in eleven seventy six and took thirty three years to build. It featured a large number of shops, houses, and other buildings. The houses were up to seven stories high.",
+    "Tower Bridge is 801 feet long.",
+    "Before Tower Bridge, was built, Londoners crossed the river in the same location through the Tower Subway, a 410 meter tunnel. It was closed to pedestrians in eighteen ninety eight.",
+    "London Zoo is the world’s oldest zoo, having opened in eighteen twenty eight.",
+    "London Stone is a historic landmark at 111 Cannon Street. The name 'London Stone' was first recorded around the year eleven hundred. The date and original purpose of the Stone are unknown.",
+    "The British Museum collection totals at least 8 million objects.",
+    "There are over 300 museums in London.",
+    "The British Library was formed in nineteen seventy three from the British Museum Library. It has over 14 million books, 920,000 journal titles and 3 million sound recordings.",
+    "When it was established in eighteen fifty seven the Victoria and Albert Museum was called the South Kensington Museum.",
+    "The River Thames is 215 miles long, has 47 locks and carries some 300,000 tonnes of sediment a year.",
+    "The word 'Strand' is an old English word for 'shore'. It makes reference to when the Thames was more shallow and more wide, and would have flowed along the side of the Strand.",
+    "The Port of London still handles 45 million tons of cargo through the Thames every year.",
+    "One of the oldest pubs in London, Ye Olde Cheshire Cheese, was built shortly after the Great Fire of London in sixteen sixty six. Mark Twain, Charles Dickens, Sir Arthur Conan Doyle, and G. K. Chesterton are all said to have been regulars.",
+    "8 people drowned and 15 buildings were completely destroyed in the Great London Beer Flood of eighteen fourteen.  A brewery vat burst just behind what is now New Oxford Street and 30,000 galloons of beer flooded the area.",
+    "London’s first sandwich bar, Sandy’s, opened in Oxenden Street in nineteen thirty three.",
+    "In nineteen fifty two, Tower Bridge began to open while a double decker bus was still on it. The driver drove the bus to jump a three foot gap across the bridge to safety.",
+    "The only road in London in which you can drive on the right is Savoy Court, the short, turning street in front of the Savoy Hotel.",
+    "London is home to people speaking 300 different languages.",
+    "London is the only city that has hosted the Olympics three times.",
+    "Hatchards of Piccadilly is the oldest bookshop in London and opened its doors in seventeen ninety seven.",
+    "40% of Londoners died in the Black Death of thirteen forty eight.",
+    "The square mile of The City is actually 1.12 square miles. It has 11,000 residents, but 330,000 people travel to work in this one square mile daily."
 ];
 
 /**
